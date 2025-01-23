@@ -80,3 +80,19 @@ Este proyecto mejora la aplicación **"Mi Comida Favorita"**, desarrollada en cl
   - Problemas en la autenticación.
   - Fallos en la conexión con Firebase.
 
+---
+
+## 📸 Screenshots
+
+### Pantalla de Registro
+![Registro](screenshots/register_1.png)
+![Registro](screenshots/register_2.png)
+
+### Pantalla de Login
+![Login](screenshots/login_1.png)
+![Login](screenshots/login_2.png)
+
+### Pantalla de Perfil
+![Perfil](screenshots/profile_1.png)
+![Perfil](screenshots/profile_2.png)
+![Perfil](screenshots/profile_3.png)
